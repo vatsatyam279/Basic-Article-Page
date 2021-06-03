@@ -1,0 +1,186 @@
+body{
+  background-color:  #EAF9F5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+hr
+{
+  border:hidden 5px;
+  border-color: red;
+  width: 10%;
+  margin: 100px auto;
+}
+,img
+{
+  text-align: left;
+}
+h1
+{
+  padding-top: 10%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+.read-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+.web-image {
+  width: 20%;
+  float: left;
+  margin: 30px;
+
+}
+.read-image{
+  width: 20%;
+  float: right;
+  margin: 30px;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+body{
+  background-color:  #EAF9F5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+hr
+{
+  border:hidden 5px;
+  border-color: red;
+  width: 10%;
+  margin: 100px auto;
+}
+,img
+{
+  text-align: left;
+}
+h1
+{
+  padding-top: 10%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+.read-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+.web-image {
+  width: 20%;
+  float: left;
+  margin: 30px;
+
+}
+.read-image{
+  width: 20%;
+  float: right;
+  margin: 30px;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+/* Button Styleee
+* 
+*/
+.buttonC
+{
+  text-align: left;
+}
+button, button a, .button{
+  position:relative;
+  /* style|variant|weight|size/line-height|family */
+  text-align: left;
+  font: 500 14px Arial;
+  letter-spacing: 0.5px;
+  color:#fff;
+  border: 0;
+  border-radius: 5px;
+  cursor:pointer;
+  text-decoration:none;
+}
+
+button, .button{
+  text-align: left;
+  min-width: 100px;
+  margin:  5px;
+  padding: 10px;
+  background-color: #0092ba;/* for non linear-gradient browsers */
+  background: linear-gradient(to bottom, #24A1C3 5%, #0092BB 100%) repeat scroll 0 0 #24A1C3;
+}
+
+.button{display:inline-block;min-width:80px;text-align:left;white-space:nowrap;}
+
+button:hover,a.button:hover{
+  background:linear-gradient(to bottom, #0092BB 5%, #24A1C3 100%) repeat scroll 0 0 #0092BB;
+}
+button:active{top:1px;}
+
+
+body{
+  background-color:#222; 
+}
+#buttonC{margin:20px auto;width:500px;}
+
